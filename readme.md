@@ -13,13 +13,6 @@
 ### <p>**Name Age Country**<p>Alice 25 USA<p>Bob 30 UK
 
 
-
-
-
-
-
-
-
 ```
 public class AssignmentOne {
     public static void main(String[] args){
@@ -35,3 +28,4 @@ public class AssignmentOne {
     
 }
 ```
+[githublink](https://github.com/Aromalpriyan/Assignment---1)
